@@ -70,7 +70,7 @@ Contributions are more than welcome. Please fork the repository, create a separa
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ### Support
-- Project by [@Harsh-204](https://github.com/Harsh-204)
+- Project by [@Harsh-204](https://github.com/Harsh-204), [@kunalcomm](https://github.com/kunalcomm)
 - Have an issue? Feel free to open a ticket in the GitHub issue tracker.
 
 ---
